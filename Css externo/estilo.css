@@ -15,7 +15,7 @@
 
 }
 
-.meio {
+#meio {
     border: 1px solid red;
     width: 16em;
     height: 20em;
@@ -56,4 +56,74 @@
     margin-top: -20em;
     text-align: left;
     margin-left: 32.3em;
+}
+
+a.titulos {
+    border: 1px solid rgb(255, 0, 0);
+    margin: 0 10px;
+    padding: 10px;
+    padding-left: 30px;
+    margin-left: -30px;
+    margin-top: 10px;
+    display: block;
+}
+
+a.ultima {
+    border: 1px solid rgb(255, 0, 0);
+    margin: 0 10px;
+    padding: 10px;
+    padding-left: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    display: block;
+}
+
+a.destaque { 
+    border: 1px solid rgb(255, 0, 0);
+    margin: 0 10px;
+    padding: 10px;
+    padding-left: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    display: block;
+}
+
+a.entrevistas1 {
+    border: 1px solid rgb(255, 0, 0);
+    margin: 0 10px;
+    padding: 10px;
+    padding-left: 30px;
+    margin-left: -30px;
+    margin-top: 10px;
+    display: block;
+}
+
+a.news {
+    border: 1px solid rgb(255, 0, 0);
+    margin: 0 10px;
+    padding: 10px;
+    padding-left: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    display: block;
+}
+
+a.mundo{
+    border: 1px solid rgb(255, 0, 0);
+    margin: 0 10px;
+    padding: 10px;
+    padding-left: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    display: block;
+}
+
+a.noticias_recentes {
+    border: 1px solid rgb(255, 0, 0);
+    margin: 0 10px;
+    padding: 10px;
+    padding-left: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    display: block;
 }
