@@ -1,0 +1,59 @@
+#cabecalho {
+    border: 1px solid red;
+    padding-bottom: 200px;
+    margin-bottom: 1.5em;
+}
+
+.entrevistas {
+    border: 1px solid red;
+    width: 10em;
+    height: 28em;
+    margin-left: 16em;
+    margin: 5px;
+    float: left;
+    padding-left: 40px;
+
+}
+
+.meio {
+    border: 1px solid red;
+    width: 16em;
+    height: 20em;
+    margin: 5px;
+    margin-left: 20px;
+    float: left;
+}
+
+#corpo {
+    border: 1px solid red;
+    width: 50em;
+    height: 100em;
+    margin: auto;
+}
+
+.entrevistas1 {
+    border: 1px solid red;
+    width: 12.5em;
+    height: 28em;
+    margin-top: 30em;
+    text-align: left;
+    margin-left: 5px;
+}
+
+.meio2 {
+    border: 1px solid red;
+    width: 16em;
+    height: 20em;
+    margin-top: -36em;
+    text-align: left;
+    margin-left: 14.5em;
+}
+
+.meio3 {
+    border: 1px solid red;
+    width: 16em;
+    height: 20em;
+    margin-top: -20em;
+    text-align: left;
+    margin-left: 32.3em;
+}
