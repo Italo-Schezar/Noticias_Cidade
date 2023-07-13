@@ -1,8 +1,9 @@
+
 #cabecalho {
     padding-bottom: 200px;
     margin-bottom: 1.5em;
     background: rgb(41, 76, 113) url(../Imagens/fundo-removebg-preview.png) repeat-x bottom;
-
+    height: 3em;
 }
 
 .entrevistas {
@@ -146,6 +147,8 @@ a.news {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    position: relative;
+    z-index: 5;
 }
 
 #navegação_vertical>ul a {
@@ -156,7 +159,7 @@ a.news {
     text-indent: 10px;
     line-height: 40px;
     float: left;
-    margin-top: 6em;
+    margin-top: 8em;
     color: #fff;
     background: rgb(170, 0, 39)
 }
@@ -279,6 +282,20 @@ a.news {
 #icon6 {
     margin-left: -99px;
     margin-top: -10px;
-    margin-bottom: -115px;
+    margin-bottom: -146px;
     height: 27px;
 }
+
+#img_1{
+   margin-left: 55.8em;
+   margin-bottom: -1em;
+   z-index: 1;
+   position: absolute;
+}
+
+#img_2{
+    z-index: 2;
+   position: absolute;
+   margin-left: 12.5em;
+   margin-top: 1.5em;
+ }
