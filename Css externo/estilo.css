@@ -1,7 +1,8 @@
 #cabecalho {
-    border: 1px solid red;
     padding-bottom: 200px;
     margin-bottom: 1.5em;
+    background: rgb(41, 76, 113) url(../Imagens/fundo-removebg-preview.png) repeat-x bottom;
+
 }
 
 .entrevistas {
@@ -155,8 +156,14 @@ a.news {
     text-indent: 10px;
     line-height: 40px;
     float: left;
-    border: 1px solid red;
-    margin-top: 6.5em;
+    margin-top: 6em;
+    background-color:rgb(170, 0, 39);
+    color: #fff;
+}
+
+#navegação_vertical>ul a:hover{
+    background: rgb(225, 0, 57);
+    color: rgb(151, 0, 41);
 }
 
 #espaço {
@@ -166,4 +173,8 @@ a.news {
 #espaço2 {
     margin-left: 13.3em;
 
+}
+
+#espaço3 {
+    margin-left: 12em;
 }
