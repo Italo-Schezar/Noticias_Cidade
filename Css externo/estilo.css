@@ -243,6 +243,56 @@ a.news {
 
 }
 
+#espaço3 {
+    margin-left: 12em;
+}
+
+
+#divisor {
+    height: 1em;
+    margin-bottom: -3px;
+    margin-left: 63.8px;
+}
+
+#divisor2 {
+    margin-left: 67px;
+    height: 1em;
+    margin-bottom: -3px;
+}
+
+#divisor3 {
+    margin-left: 95px;
+    height: 1em;
+    margin-bottom: -3px;
+}
+
+#divisor4 {
+    margin-left: 112.2px;
+    height: 1em;
+    margin-bottom: -3px;
+}
+
+#divisor5 {
+    margin-left: 61px;
+    height: 1em;
+    margin-bottom: -3px;
+}
+
+#divisor6 {
+    margin-left: 65.91px;
+    height: 1em;
+    margin-bottom: -3px;
+}
+
+#icon {
+    margin-left: -63px;
+    margin-top: -5px;
+    height: 1em;
+    margin-bottom: -2px;
+    height: 18px;
+
+}
+
 #icon1 {
     margin-left: -70px;
     margin-top: -7px;
@@ -295,7 +345,80 @@ a.news {
 
 #img_2{
     z-index: 2;
-   position: absolute;
-   margin-left: 12.5em;
-   margin-top: 1.5em;
- }
+    position: absolute;
+    margin-left: 12.5em;
+    margin-top: 1.5em;
+}
+
+#entrevistas_icon {
+    margin-left: -25px;
+    margin-top: -28.5px;
+    height: 0px;
+    width: 22.5px;
+    margin-bottom: -3.5px;
+    height: 18.5px;
+    position: absolute;
+}
+
+#user_icon{
+    height: 25px;
+    width: 49px;
+    position: absolute;
+    margin-left: -144.5px;
+    margin-top: -2.5px;
+    margin-bottom: -3.5px;
+}
+
+#user_icon1{
+    height: 25px;
+    width: 49px;
+    position: absolute;
+    margin-left: -132.5px;
+    margin-top: -2.5px;
+    margin-bottom: -3.5px;
+}
+
+#user_icon2{
+    height: 25px;
+    width: 49px;
+    position: absolute;
+    margin-left: -173.9px;
+    margin-top: -2.5px;
+    margin-bottom: -3.5px;
+}
+
+#user_icon3{
+    height: 25px;
+    width: 49px;
+    position: absolute;
+    margin-left: -176.5px;
+    margin-top: -2.5px;
+    margin-bottom: -3.5px;
+}
+
+#user_icon4{
+    height: 25px;
+    width: 49px;
+    position: absolute;
+    margin-left: -140.5px;
+    margin-top: -2.5px;
+    margin-bottom: -3.5px;
+}
+
+#user_icon5{
+    height: 25px;
+    width: 49px;
+    position: absolute;
+    margin-left: -129.5px;
+    margin-top: -2.5px;
+    margin-bottom: -3.5px;
+}
+
+#user_icon6{
+    height: 25px;
+    width: 49px;
+    position: absolute;
+    margin-left: -160.5px;
+    margin-top: -2.5px;
+    margin-bottom: -3.5px;
+}
