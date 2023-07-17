@@ -1,14 +1,12 @@
-<<<<<<< Updated upstream
-=======
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
->>>>>>> Stashed changes
 #cabecalho {
     border: 1px solid red;
     padding-bottom: 200px;
     margin-bottom: 1.5em;
+    
 }
 
 .entrevistas {
@@ -170,10 +168,6 @@ a.news {
     text-decoration: none;
     line-height: 40px;
     float: left;
-<<<<<<< Updated upstream
-    border: 1px solid red;
-    margin-top: 6.5em;
-=======
     margin-top: 8em;
     color: #fff;
     background: rgb(170, 0, 39)
@@ -197,7 +191,6 @@ a.news {
 #navegação_vertical>ul a#espaço6 {
     text-indent: 26.5px;
     width: 120px;
->>>>>>> Stashed changes
 }
 
 #espaço {
@@ -206,10 +199,8 @@ a.news {
 
 #espaço2 {
     margin-left: 13.3em;
-
-<<<<<<< Updated upstream
 }
-=======
+
 #espaço3 {
     margin-left: 12.3em;
 }
@@ -389,4 +380,3 @@ a.news {
     margin-top: -2.5px;
     margin-bottom: -3.5px;
 }
->>>>>>> Stashed changes
