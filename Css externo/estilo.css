@@ -3,7 +3,7 @@ body{
 }
 
 #cabecalho {
-    border: 1px solid red;
+   
     padding-bottom: 200px;
     margin-bottom: 1.5em;
     background: rgb(41, 76, 113) url(../Imagens/fundo-removebg-preview.png) repeat-x bottom;
@@ -30,7 +30,7 @@ body{
 }
 
 #corpo {
-    border: 1px solid red;
+    border: 1px solid rgb(255, 255, 255);
     width: 50em;
     height: 100em;
     margin: auto;
@@ -193,7 +193,7 @@ a.news {
 }
 
 #navegação_vertical>ul a#espaço6 {
-    text-indent: 25px;
+    text-indent: 29px;
     width: 120px;
 }
 
@@ -213,17 +213,17 @@ a.news {
 #divisor {
     height: 1em;
     margin-bottom: -3px;
-    margin-left: 63.8px;
+    margin-left: 62px;
 }
 
 #divisor2 {
-    margin-left: 67px;
+    margin-left: 64.9px;
     height: 1em;
     margin-bottom: -3px;
 }
 
 #divisor3 {
-    margin-left: 95px;
+    margin-left: 89.5px;
     height: 1em;
     margin-bottom: -3px;
 }
@@ -235,13 +235,13 @@ a.news {
 }
 
 #divisor5 {
-    margin-left: 61px;
+    margin-left: 59.5px;
     height: 1em;
     margin-bottom: -3px;
 }
 
 #divisor6 {
-    margin-left: 65.91px;
+    margin-left: 61.91px;
     height: 1em;
     margin-bottom: -3px;
 }
@@ -264,28 +264,28 @@ a.news {
 }
 
 #icon2 {
-    margin-left: -108px;
+    margin-left: -119.5px;
     margin-top: -7px;
     margin-bottom: -3.3px;
     height: 16px;
 }
 
 #icon3 {
-    margin-left: -90px;
-    margin-top: -7px;
-    margin-bottom: -3.3px;
+    margin-left: -94px;
+    margin-top: -6.5px;
+    margin-bottom: -3px;
     height: 15px;
 }
 
 #icon4 {
-    margin-left: -68px;
+    margin-left: -71px;
     margin-top: -10px;
-    margin-bottom: -8.5px;
+    margin-bottom: -8px;
     height: 23.5px;
 }
 
 #icon5 {
-    margin-left: -80px;
+    margin-left: -83.5px;
     margin-top: -10px;
     margin-bottom: -7.8px;
     height: 27px;
