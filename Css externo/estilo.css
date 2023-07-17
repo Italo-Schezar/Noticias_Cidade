@@ -160,6 +160,8 @@ a.news {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    position: relative;
+    z-index: 5;
 }
 
 #navegação_vertical>ul a {
@@ -167,6 +169,7 @@ a.news {
     height: 40px;
     display: block;
     text-decoration: none;
+    text-indent: 10px;
     line-height: 40px;
     float: left;
     margin-top: 8em;
@@ -176,7 +179,7 @@ a.news {
 
 #navegação_vertical>ul a:hover {
     background: rgb(225, 0, 57);
-    color: #ffa1a1
+    color: rgb(151, 0, 41);
 }
 
 #navegação_vertical>ul a#espaço4 {
@@ -185,12 +188,12 @@ a.news {
 }
 
 #navegação_vertical>ul a#espaço5 {
-    text-indent: 29.5px;
+    text-indent: 25px;
     width: 140px;
 }
 
 #navegação_vertical>ul a#espaço6 {
-    text-indent: 26.5px;
+    text-indent: 25px;
     width: 120px;
 }
 
@@ -203,52 +206,52 @@ a.news {
 }
 
 #espaço3 {
-    margin-left: 12.3em;
+    margin-left: 12em;
 }
 
 
 #divisor {
     height: 1em;
     margin-bottom: -3px;
-    margin-left: 66.5px;
+    margin-left: 63.8px;
 }
 
 #divisor2 {
-    margin-left: 66.5px;
+    margin-left: 67px;
     height: 1em;
     margin-bottom: -3px;
 }
 
 #divisor3 {
-    margin-left: 93px;
+    margin-left: 95px;
     height: 1em;
     margin-bottom: -3px;
 }
 
 #divisor4 {
-    margin-left: 110.8px;
+    margin-left: 112.2px;
     height: 1em;
     margin-bottom: -3px;
 }
 
 #divisor5 {
-    margin-left: 59.5px;
+    margin-left: 61px;
     height: 1em;
     margin-bottom: -3px;
 }
 
 #divisor6 {
-    margin-left: 64.5px;
+    margin-left: 65.91px;
     height: 1em;
     margin-bottom: -3px;
 }
 
 #icon {
-    margin-left: -65.9px;
-    margin-top: -3px;
+    margin-left: -63px;
+    margin-top: -5px;
     height: 1em;
-    margin-bottom: -3.5px;
-    height: 18.5px;
+    margin-bottom: -2px;
+    height: 18px;
 
 }
 
@@ -261,28 +264,28 @@ a.news {
 }
 
 #icon2 {
-    margin-left: -122.5px;
+    margin-left: -108px;
     margin-top: -7px;
     margin-bottom: -3.3px;
     height: 16px;
 }
 
 #icon3 {
-    margin-left: -95px;
-    margin-top: -6px;
-    margin-bottom: -2.2px;
+    margin-left: -90px;
+    margin-top: -7px;
+    margin-bottom: -3.3px;
     height: 15px;
 }
 
 #icon4 {
-    margin-left: -72.5px;
+    margin-left: -68px;
     margin-top: -10px;
-    margin-bottom: -7.8px;
+    margin-bottom: -8.5px;
     height: 23.5px;
 }
 
 #icon5 {
-    margin-left: -87.8px;
+    margin-left: -80px;
     margin-top: -10px;
     margin-bottom: -7.8px;
     height: 27px;
