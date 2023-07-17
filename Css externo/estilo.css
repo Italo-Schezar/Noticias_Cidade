@@ -2,10 +2,16 @@ body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 #cabecalho {
    
     padding-bottom: 200px;
     margin-bottom: 1.5em;
+    background: rgb(41, 76, 113) url(../Imagens/fundo-removebg-preview.png) repeat-x bottom;
+    height: 3em;
     background: rgb(41, 76, 113) url(../Imagens/fundo-removebg-preview.png) repeat-x bottom;
     height: 3em;
 }
@@ -160,6 +166,8 @@ a.news {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    position: relative;
+    z-index: 5;
     position: relative;
     z-index: 5;
 }
