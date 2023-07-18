@@ -2,10 +2,6 @@ body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-body{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
 #cabecalho {
    
     padding-bottom: 200px;
@@ -27,9 +23,9 @@ body{
 }
 
 #meio {
-    border: 1px solid red;
+  background: url(../Imagens/fundo-caixa.png);
     width: 16em;
-    height: 20em;
+    height: 21em;
     margin: 5px;
     margin-left: 20px;
     float: left;
@@ -52,21 +48,22 @@ body{
 }
 
 .meio2 {
-    border: 1px solid red;
     width: 16em;
-    height: 20em;
-    margin-top: -36em;
+    height: 28.25em;
+    margin-top: -35em;
     text-align: left;
     margin-left: 14.5em;
+    background: url(../Imagens/fundo-caixa.png);
+
 }
 
 .meio3 {
-    border: 1px solid red;
     width: 16em;
-    height: 20em;
-    margin-top: -20em;
+    height: 28.25em;
+    margin-top: -28.25em;
     text-align: left;
     margin-left: 32.3em;
+    background: url(../Imagens/fundo-caixa.png);
 }
 
 a.titulos {
@@ -85,13 +82,14 @@ a.titulos {
 }
 
 a.link_meio {
-    border: 1px solid rgb(255, 0, 0);
     margin: 0 10px;
-    padding: 10px;
+    padding: 2px;
     padding-left: 30px;
     margin-left: 10px;
     margin-top: 10px;
     display: block;
+    
+   
 }
 
 a.entrevistas1 {
@@ -115,13 +113,15 @@ a.news {
 }
 
 #conteudo_meio {
-    border: 1px solid rgb(255, 0, 0);
+    
     margin: 0 10px;
     padding: 10px;
-    padding-left: 30px;
+    padding-left: 0px;
     margin-left: 10px;
     margin-top: 10px;
     padding-bottom: 235px;
+    background-color: #fff;
+    height: 20px;
 }
 
 #lista_1>ul {
@@ -391,4 +391,148 @@ a.news {
     margin-left: -160.5px;
     margin-top: -2.5px;
     margin-bottom: -3.5px;
+}
+
+/*
+   *** Css Meio***
+*/
+
+#meio>.link_meio {
+    text-decoration: none;
+    background: rgb(225, 0, 57);
+    color: #fff;
+    line-height: 0px;
+    text-indent: -25px;
+    display: block;
+    text-align: center;
+}
+
+#conteudo_meio> #titulo_meio{
+    margin-top: -20px;
+    line-height: 0px;
+    text-indent: 5px;
+    display:inline-block ;
+    background-color:  rgb(225, 0, 68);
+    width: 234px;
+    text-align: center;
+    color: #fff;
+}
+
+#size{
+    width: 234px;
+}
+
+#texto{
+    line-height: 15px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+#texto1{
+    line-height: 15px;
+    margin-left: 10px;
+    margin-top: 5px;
+    text-align: right;
+    display: block;
+    color: rgb(49, 125, 238);
+}
+
+.meio2>.link_meio {
+    text-decoration: none;
+    background: rgb(225, 0, 57);
+    color: #fff;
+    line-height: 0px;
+    text-indent: -25px;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: -50px;
+    border: 1px solid red;
+    width: 200px;
+}
+
+.meio3>.link_meio {
+    text-decoration: none;
+    background: rgb(225, 0, 57);
+    color: #fff;
+    line-height: 0px;
+    text-indent: -25px;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: -50px;
+    border: 1px solid red;
+    width: 200px;
+}
+
+#noticias{
+    margin: 0 10px;
+    padding: 10px;
+    padding-left: 0px;
+    margin-left: 10px;
+    margin-top: 20px;
+    padding-bottom: 235px;
+    background-color: #fff;
+    height: 130px;
+    width: 222.5px;
+}
+
+#noticia_1>img {
+    height: 50px;
+    width: 80px;
+    margin-left: 10px;
+}
+
+#noticia_1>a {
+    text-decoration: none;
+    position: absolute;
+    display: block;
+    line-height: 0;
+    margin-left: 102px;
+    margin-top: -70px;
+}
+
+#texto2 {
+    font-size: 10px;
+    margin-left: 110px;
+    margin-top: -35px;
+}
+
+#divisão {
+    border: 1px solid rgba(181, 183, 184, 0.404);
+    margin-left: 65px;
+    width: 100px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#noticia_2>img {
+    height: 50px;
+    width: 80px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#noticia_2>a{
+text-decoration: none;
+position: absolute;
+display: block;
+line-height: 0;
+margin-left: 100px;
+margin-top: -70px;
+}
+
+#tempo {
+    position: absolute;   
+    font-size: 10px;
+    text-align: right;
+    display: block;
+    color: rgb(151, 149, 149);
+    margin-left: 187.5px;
+    margin-top: 13px;
+}
+
+#tempo>img {
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    margin-left: -13.5px;
 }
